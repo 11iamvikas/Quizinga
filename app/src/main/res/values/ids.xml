@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define ID for sportsButton -->
+    <item name="sportsButton" type="id"/>
+    <item name="entertainmentButton" type="id"/>
+    <item name="politicsButton" type="id"/>
+    <item name="historyButton" type="id"/>
+</resources>

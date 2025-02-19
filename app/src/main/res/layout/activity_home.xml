@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Fragment Container (For replacing with fragments) -->
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottomNavigationView"
+        android:layout_marginBottom="60dp"/> <!-- Add margin to avoid overlap with BottomNavigationView -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/quizText"
+        android:text="Quizinga"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        />
+    <ImageView
+        android:id="@+id/quizImage"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:src="@drawable/ic_quiz"
+        android:layout_below="@+id/quizText"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/promtText"
+        android:text="Test Your Knowledge! Test Your Brain"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:layout_below="@+id/quizImage"
+        android:layout_centerInParent="true"/>
+    <ImageView
+        android:id="@+id/brainstormImage"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:src="@drawable/ic_brainstorm"
+        android:layout_below="@+id/promtText"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/promtText2"
+        android:text="Explore Various Categories of Quize Now !"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/brainstormImage"
+        android:layout_centerInParent="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/promtText3"
+        android:text="Sports"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/promtText2"
+        android:layout_centerInParent="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/promtText4"
+        android:text="History"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/promtText3"
+        android:layout_centerInParent="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/promtText5"
+        android:text="Politics"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/promtText4"
+        android:layout_centerInParent="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/promtText6"
+        android:text="Entertainment"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/promtText5"
+        android:layout_centerInParent="true"/>
+
+    <!-- Start Quiz Button (Placed above the BottomNavigationView) -->
+    <Button
+        android:id="@+id/startQuizButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start a Quiz"
+        android:backgroundTint="@color/purple_light"
+        android:textColor="@android:color/white"
+        android:padding="12dp"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/bottomNavigationView"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Bottom Navigation View -->
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/bottom_nav_menu"
+        app:labelVisibilityMode="unlabeled"
+        app:itemIconTint="@color/nav_icon_color"
+        app:itemTextColor="@color/nav_icon_color"
+        android:background="?android:attr/windowBackground"/>
+
+</RelativeLayout>

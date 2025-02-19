@@ -1,0 +1,49 @@
+<!-- dialog_quiz_category.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/white">
+
+    <!-- Sports Category -->
+    <Button
+        android:id="@+id/sportsButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sports"
+        android:backgroundTint="@color/purple_light"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Entertainment Category -->
+    <Button
+        android:id="@+id/entertainmentButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Entertainment"
+        android:backgroundTint="@color/purple_light"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Politics Category -->
+    <Button
+        android:id="@+id/politicsButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Politics"
+        android:backgroundTint="@color/purple_light"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- History Category -->
+    <Button
+        android:id="@+id/historyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="History"
+        android:backgroundTint="@color/purple_light"
+        android:textColor="@android:color/white"/>
+
+</LinearLayout>

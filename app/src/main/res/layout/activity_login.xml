@@ -1,0 +1,42 @@
+<!-- activity_login.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quizinga"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/welcomeText"
+        android:text="Login To Your Account"
+        android:textSize="24sp"
+        android:textStyle="italic"
+        android:layout_marginBottom="32dp"/>
+    <ImageView
+        android:id="@+id/quizImage"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:src="@drawable/ic_quiz"
+        android:layout_marginBottom="32dp"/>
+
+    <ImageButton
+        android:id="@+id/signInButton"
+        android:layout_width="340dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="?android:selectableItemBackground"
+        android:src="@drawable/signin_image"
+        android:layout_marginBottom="10dp"/>
+
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "392190680982",
+    "project_id": "quizinga-db7af",
+    "storage_bucket": "quizinga-db7af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392190680982:android:03a6f4fb17a34f5cd3c7b7",
+        "android_client_info": {
+          "package_name": "com.example.quizinga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392190680982-d1p01115rb663g4avgasr37d00067mgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizinga",
+            "certificate_hash": "333f1117dd446d3a4c1bdf9ab1b6ad9f3929f99c"
+          }
+        },
+        {
+          "client_id": "392190680982-kulrq5cuprlla8tndemkjseg4s08g26j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMXrBpW0LjlLqvnAccAMumVanKREaTr4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392190680982-kulrq5cuprlla8tndemkjseg4s08g26j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
