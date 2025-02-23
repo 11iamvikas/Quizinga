@@ -59,7 +59,7 @@ A quiz application built using Kotlin and Firebase, featuring Firebase Authentic
 <img src=https://raw.githubusercontent.com/11iamvikas/Quizinga/refs/heads/master/app/src/main/res/drawable/8.png width="200"/>
 
 ## Download APK
-[Click here to download the APK](your-apk-link-here)
+[Click here to download the APK](https://drive.google.com/file/d/1Cm_9TS_vP2OQdRhSeMtCqhjotKIxn8zy/view?usp=sharing)
 
 ---
 Feel free to contribute to the project by creating issues or submitting pull requests!
