@@ -49,14 +49,14 @@ A quiz application built using Kotlin and Firebase, featuring Firebase Authentic
 
 ## Screenshots
 
-<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/1.png?raw=true/>
-<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/2.png?raw=true width="200"/> 
-<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/3.png?raw=true width="200"/>
-<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/4.png?raw=true width="200"/>
-<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/5.png?raw=true width="200"/>
-<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/6.png?raw=true width="200"/> 
-<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/7.png?raw=true width="200"/>
-<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/8.png?raw=true width="200"/>
+<img src=https://raw.githubusercontent.com/11iamvikas/Quizinga/refs/heads/master/app/src/main/res/drawable/1.png width="200"/>
+<img src=https://raw.githubusercontent.com/11iamvikas/Quizinga/refs/heads/master/app/src/main/res/drawable/2.png width="200"/> 
+<img src=https://raw.githubusercontent.com/11iamvikas/Quizinga/refs/heads/master/app/src/main/res/drawable/3.png width="200"/>
+<img src=https://raw.githubusercontent.com/11iamvikas/Quizinga/refs/heads/master/app/src/main/res/drawable/4.png width="200"/>
+<img src=https://raw.githubusercontent.com/11iamvikas/Quizinga/refs/heads/master/app/src/main/res/drawable/5.png width="200"/>
+<img src=https://raw.githubusercontent.com/11iamvikas/Quizinga/refs/heads/master/app/src/main/res/drawable/6.png width="200"/> 
+<img src=https://raw.githubusercontent.com/11iamvikas/Quizinga/refs/heads/master/app/src/main/res/drawable/7.png width="200"/>
+<img src=https://raw.githubusercontent.com/11iamvikas/Quizinga/refs/heads/master/app/src/main/res/drawable/8.png width="200"/>
 
 ## Download APK
 [Click here to download the APK](your-apk-link-here)
