@@ -49,22 +49,14 @@ A quiz application built using Kotlin and Firebase, featuring Firebase Authentic
 
 ## Screenshots
 
-![Login Screen](file:///C:/Users/vikas/Downloads/1.png)
-
-![User Profile Screen](file:///C:/Users/vikas/Downloads/2.png)
-
-![Home Screen](file:///C:/Users/vikas/Downloads/3.png)
-
-![Community Screen](file:///C:/Users/vikas/Downloads/4.png)
-
-![Quiz Screen](file:///C:/Users/vikas/Downloads/5.png)
-
-![Quiz Screen](file:///C:/Users/vikas/Downloads/6.png)
-
-![Quiz Screen](file:///C:/Users/vikas/Downloads/7.png)
-
-![Quiz Screen](file:///C:/Users/vikas/Downloads/8.png)
-
+<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/1.png?raw=true width="200"/>
+<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/2.png?raw=true width="200"/> 
+<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/3.png?raw=true width="200"/>
+<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/4.png?raw=true width="200"/>
+<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/5.png?raw=true width="200"/>
+<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/6.png?raw=true width="200"/> 
+<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/7.png?raw=true width="200"/>
+<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/8.png?raw=true width="200"/>
 
 ## Download APK
 [Click here to download the APK](your-apk-link-here)
