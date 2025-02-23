@@ -49,7 +49,7 @@ A quiz application built using Kotlin and Firebase, featuring Firebase Authentic
 
 ## Screenshots
 
-<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/1.png?raw=true width="200"/>
+<img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/1.png?raw=true/>
 <img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/2.png?raw=true width="200"/> 
 <img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/3.png?raw=true width="200"/>
 <img src=https://github.com/11iamvikas/Quizinga/blob/master/app/src/main/res/drawable/4.png?raw=true width="200"/>
